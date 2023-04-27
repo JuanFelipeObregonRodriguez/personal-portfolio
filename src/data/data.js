@@ -1,0 +1,51 @@
+
+export const projects = [
+    {
+      title: "LinkedIn Clone",
+      description: "This is a desktop LinkedIn Clone. It had been built with React, Redux Toolkit as a state management library, Firebase database to store and retrive data and CSS with BEM methodology.",
+      tags: ["React", "Redux Toolkit", "Firebase", "CSS"],
+      code: "",
+      visit: "",
+      id: 1,
+    },
+    {
+      title: "Uber Clone",
+      description: "This is an Uber Clone. It had been built with React Native, Redux Toolkit as a state management library, Firebase database to store and retrive data and TailwindCSS.",
+      tags: ["React Native", "TailwindCSS", "Redux Toolkit", "Firebase"],
+      code: "",
+      visit: "",
+      id: 2,
+    },
+    {
+      title: "Medium Clone",
+      description: "This is a Medium Clone. It had been built with React, TypeScript - a superset of JavaScript, Sanity headless Content Management System, and TailwindCSS. ",
+      tags: ["React", "TypeScript", "SanityCMS", "TailwindCSS"],
+      code: "",
+      visit: "",
+      id: 3,
+    },
+    {
+      title: "Instagram Clone",
+      description: "This is an Instagram Clone. It had been built with Next.js - React server side rendering framework, TailwindCSS, Firebase database to store and retrive data, and Next Authentication.",
+      tags: ["Next.js", "TailwindCSS", "Firebase", "NextAuth"],
+      code: "",
+      visit: "",
+      id: 4,
+    },
+    {
+      title: "Hulu Clone",
+      description: "This is a Hulu Clone. It had been built with Next.js - React server side rendering framework, TailwindCSS, and TMDB API.",
+      tags: ["Next.js", "TailwindCSS", "TMDB Api"],
+      code: "",
+      visit: "",
+      id: 5,
+    },
+    {
+      title: "Beauty Salon",
+      description: "This is a Beauty Salon website. It had been built with the best UX/UI practices, React, and Styled-Components. ",
+      tags: ["React", "Styled Components"],
+      code: "",
+      visit: "",
+      id: 6,
+    },
+  ];
